@@ -1,2 +1,2 @@
 # Practice
-Just for practising
+Code for practising
